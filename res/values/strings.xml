@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Polls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="welcome">Welcome to the Polls App</string>
+    <string name="answer_polls">Answer Polls</string>
+    <string name="review_polls">Review Polls</string>
+    <string name="clear_polls">Clear All Polls</string>
+    <string name="title_activity_poll">PollActivity</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="loading_polls">Loading Polls. Please Wait . . .</string>
+    <string name="loaded_polls">Finished Loading Polls.</string>
+    <string name="exit">Exit</string>
+    <string name="clear_polls_message">Clearing Polls . . . </string>
+    <string name="cleared_message">Finished Clearing Polls.</string>
+    <string name="next_button">Next</string>
+    <string name="home_button">Home</string>
+    <string name="question_text">Question</string>
+    <item name="aid" type="id"/>
+    <string name="error_poll_unanswered">The last question was unanswered.</string>
+    <string name="bottom_forst_half">"Your answer is shown in "</string>
+    <string name="blue">Blue</string>
+    <string name="clear_button">Clear</string>
+
+</resources>
